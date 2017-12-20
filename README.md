@@ -4,5 +4,5 @@
 
 only support CharField and IntegerField
 
-## Warning: Use Migration will delete your old sqlite db, and create a new db file. It means the data will be deleted if you user migrate.
+## Warning: Use Migration will delete your old sqlite db, and create a new db file. It means the data will be deleted if you use migrate.
 
